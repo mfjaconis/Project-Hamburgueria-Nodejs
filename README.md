@@ -15,4 +15,4 @@ Este projeto utiliza o Node.js como servidor, Express.js como estrutura da web.
 
 
 
-## Esse projeto está relacionado ao front-end, também está no GitHub. O nome do projeto é "Code Club Burger Project."
+## Esse projeto está relacionado ao front-end, também está no GitHub. O nome do projeto é  ["Code Club Burger Project."](https://github.com/mfjaconis/Code-Club-Burger-Project)
