@@ -12,3 +12,7 @@ Este projeto utiliza o Node.js como servidor, Express.js como estrutura da web.
 - Visualização de pedidos registrados.
 - Atualização do status dos pedidos (preparando, para pronto).
 - Exclusão de pedidos.
+
+
+
+### Esse projeto está relacionado ao front-end, também está no GitHub. O nome do projeto é "Code Club Burger Project."
